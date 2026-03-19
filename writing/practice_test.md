@@ -1,7 +1,7 @@
 # CS101 Spring 2026 — Practice Midterm (Multiple Choice)
 
-Name: Add Your Name Here  
-Date: Add Date Here
+Name: Tess Bursic  
+Date: 3/18/26
 
 **Instructions:** For each question, record your answer by replacing `TODO` with
 the letter of the single best response (a, b, c, or d). 
@@ -20,7 +20,7 @@ b) 2, 5, 8
 c) 2, 4, 6, 8, 10  
 d) 2, 9
 
-**Your answer:** TODO
+**Your answer:** b
 
 ---
 
@@ -31,7 +31,7 @@ b) `for i in range(8, 4):`
 c) `for i in range(8, 3, -1):`  
 d) `for i in range(4, 8, -1):`
 
-**Your answer:** TODO
+**Your answer:** d
 
 ---
 
